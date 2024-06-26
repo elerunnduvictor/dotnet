@@ -17,67 +17,67 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MvcMovie
 build_property.RootNamespace = MvcMovie
-build_property.ProjectDir = C:\Users\joshv\OneDrive\Desktop\KHD\dotnet_khd\MvcMovie\
+build_property.ProjectDir = c:\Users\joshv\OneDrive\Desktop\KHD\dotnet_khd\dotnet\MvcMovie\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\joshv\OneDrive\Desktop\KHD\dotnet_khd\MvcMovie
+build_property.MSBuildProjectDirectory = c:\Users\joshv\OneDrive\Desktop\KHD\dotnet_khd\dotnet\MvcMovie
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/MvcMovie/Views/HelloWorld/Index.cshtml]
+[c:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/dotnet/MvcMovie/Views/HelloWorld/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/MvcMovie/Views/HelloWorld/Welcome.cshtml]
+[c:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/dotnet/MvcMovie/Views/HelloWorld/Welcome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxXZWxjb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/MvcMovie/Views/Home/Index.cshtml]
+[c:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/dotnet/MvcMovie/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/MvcMovie/Views/Home/Privacy.cshtml]
+[c:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/dotnet/MvcMovie/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/MvcMovie/Views/Movies/Create.cshtml]
+[c:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/dotnet/MvcMovie/Views/Movies/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/MvcMovie/Views/Movies/Delete.cshtml]
+[c:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/dotnet/MvcMovie/Views/Movies/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/MvcMovie/Views/Movies/Details.cshtml]
+[c:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/dotnet/MvcMovie/Views/Movies/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/MvcMovie/Views/Movies/Edit.cshtml]
+[c:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/dotnet/MvcMovie/Views/Movies/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/MvcMovie/Views/Movies/Index.cshtml]
+[c:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/dotnet/MvcMovie/Views/Movies/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/MvcMovie/Views/Shared/Error.cshtml]
+[c:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/dotnet/MvcMovie/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/MvcMovie/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/dotnet/MvcMovie/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/MvcMovie/Views/_ViewImports.cshtml]
+[c:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/dotnet/MvcMovie/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/MvcMovie/Views/_ViewStart.cshtml]
+[c:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/dotnet/MvcMovie/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/MvcMovie/Views/Shared/_Layout.cshtml]
+[c:/Users/joshv/OneDrive/Desktop/KHD/dotnet_khd/dotnet/MvcMovie/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-0uvum7rpp4
