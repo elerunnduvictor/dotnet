@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joshv\\OneDrive\\Desktop\\KHD\\dotnet_khd\\dotnet\\CeeFour\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD178D5-8DEB-4176-80AA-48D361AC95B6}|CeeFour.csproj|c:\\users\\joshv\\onedrive\\desktop\\khd\\dotnet_khd\\dotnet\\ceefour\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD178D5-8DEB-4176-80AA-48D361AC95B6}|CeeFour.csproj|solutionrelative:gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD178D5-8DEB-4176-80AA-48D361AC95B6}|CeeFour.csproj|c:\\users\\joshv\\onedrive\\desktop\\khd\\dotnet_khd\\dotnet\\ceefour\\components\\board.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CD178D5-8DEB-4176-80AA-48D361AC95B6}|CeeFour.csproj|solutionrelative:components\\board.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD178D5-8DEB-4176-80AA-48D361AC95B6}|CeeFour.csproj|c:\\users\\joshv\\onedrive\\desktop\\khd\\dotnet_khd\\dotnet\\ceefour\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CD178D5-8DEB-4176-80AA-48D361AC95B6}|CeeFour.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD178D5-8DEB-4176-80AA-48D361AC95B6}|CeeFour.csproj|c:\\users\\joshv\\onedrive\\desktop\\khd\\dotnet_khd\\dotnet\\ceefour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD178D5-8DEB-4176-80AA-48D361AC95B6}|CeeFour.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD178D5-8DEB-4176-80AA-48D361AC95B6}|CeeFour.csproj|c:\\users\\joshv\\onedrive\\desktop\\khd\\dotnet_khd\\dotnet\\ceefour\\components\\board.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7CD178D5-8DEB-4176-80AA-48D361AC95B6}|CeeFour.csproj|solutionrelative:components\\board.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.razor",
+              "DocumentMoniker": "C:\\Users\\joshv\\OneDrive\\Desktop\\KHD\\dotnet_khd\\dotnet\\CeeFour\\Components\\Board.razor",
+              "RelativeDocumentMoniker": "Components\\Board.razor",
+              "ToolTip": "C:\\Users\\joshv\\OneDrive\\Desktop\\KHD\\dotnet_khd\\dotnet\\CeeFour\\Components\\Board.razor",
+              "RelativeToolTip": "Components\\Board.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T22:43:02.042Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joshv\\OneDrive\\Desktop\\KHD\\dotnet_khd\\dotnet\\CeeFour\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\joshv\\OneDrive\\Desktop\\KHD\\dotnet_khd\\dotnet\\CeeFour\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T22:55:17.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\joshv\\OneDrive\\Desktop\\KHD\\dotnet_khd\\dotnet\\CeeFour\\GameState.cs",
+              "RelativeDocumentMoniker": "GameState.cs",
+              "ToolTip": "C:\\Users\\joshv\\OneDrive\\Desktop\\KHD\\dotnet_khd\\dotnet\\CeeFour\\GameState.cs",
+              "RelativeToolTip": "GameState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T22:53:46.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Board.razor.css",
+              "DocumentMoniker": "C:\\Users\\joshv\\OneDrive\\Desktop\\KHD\\dotnet_khd\\dotnet\\CeeFour\\Components\\Board.razor.css",
+              "RelativeDocumentMoniker": "Components\\Board.razor.css",
+              "ToolTip": "C:\\Users\\joshv\\OneDrive\\Desktop\\KHD\\dotnet_khd\\dotnet\\CeeFour\\Components\\Board.razor.css",
+              "RelativeToolTip": "Components\\Board.razor.css",
+              "ViewState": "AQIAANUAAAAAAAAAAAAowOgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-06T22:48:55.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\joshv\\OneDrive\\Desktop\\KHD\\dotnet_khd\\dotnet\\CeeFour\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\joshv\\OneDrive\\Desktop\\KHD\\dotnet_khd\\dotnet\\CeeFour\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T22:43:35.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
